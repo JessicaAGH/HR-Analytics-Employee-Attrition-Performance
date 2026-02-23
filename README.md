@@ -99,19 +99,19 @@ Based on the quantitative analysis, the company should implement the following t
 
 ### 📍 Recommendation 1: Address Critical Compensation Gaps and Enhance Financial Commitment
 Insight: 47.6% of leavers earn less than $4,000 per month, and 65.0% have Stock Option Level 0. Low compensation combined with a lack of long-term incentive is driving a massive talent flight.
-#### Actionable Solutions:
+#### 📈Actionable Solutions:
 Immediate Salary Bump for High-Risk Roles: Conduct an emergency compensation review focused solely on Laboratory Technicians and Research Scientists (low-income roles). Implement immediate, targeted salary adjustments to bring the average income of these roles above the $5,000 threshold, thus neutralizing the primary attrition driver.
 Tiered Stock Grant Program (The "Golden Handcuff"): Roll out a mandatory Level 1 stock option grant for all employees after 2 years of service. This provides a financial stake that vests over the following 3 years, creating a strong retention incentive right before the high-risk 3-5 year tenure mark.
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 📍 Recommendation 2: Standardize and Accelerate Career Progression Pathways
 Insight: Attrition peaks sharply 1-2 years after the last promotion, and high-tenure Sales Executives leave, indicating stagnation in their current title.
-#### Actionable Solutions:
+#### 📈Actionable Solutions:
 Mandatory Career Path Check-in: Within 18 months of any employee’s last promotion, the manager must conduct a formal "Next Step Planning" session. This session must result in documented, measurable goals designed for the next promotion, ensuring the employee sees a tangible future at the company.
 Senior Specialist Titles: For high-performing Sales Executives or Research Scientists who cannot be promoted to management (Job Level 3+), create a non-managerial title track (e.g., "Principal Sales Specialist" or "Senior Staff Researcher") that comes with a Job Level increase (Job Level 3) and corresponding salary raise. This retains their technical expertise while rewarding tenure and eliminating the perception of stagnation.
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 📍 Recommendation 3: Improve Managerial Effectiveness in Early Tenure
 Insight: 70% of leavers depart within the first three years of working with their current manager, with the highest volume occurring between 0 and 3 years. This indicates a failure in initial managerial support.
-#### Actionable Solutions:
+#### 📈Actionable Solutions:
 "First Year Retention" Metric for Managers: Implement a formal performance metric for all managers based on the retention rate of their direct reports during the employee's first 12 months. Poor performance on this metric should require mandatory retraining in coaching, feedback, and performance management.
 Mandatory 90-Day Check-ins: Formalize quarterly one-on-one sessions during the first year of a new manager-employee relationship. These check-ins must specifically address Work-Life Balance, Job Satisfaction, and Career Alignment to proactively identify and resolve issues before they lead to turnover.
 
