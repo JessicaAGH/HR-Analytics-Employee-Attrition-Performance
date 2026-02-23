@@ -49,8 +49,7 @@ The dashboard's primary objective is to pinpoint the exact demographics, job con
 ## 💡 Key Insights
 The dashboard focuses on three highly correlated factors—Dempographics, Work&Life Balance, Career Progression—to provide a granular view of the attrition problem.
 
-### ✨Factors:
-#### 1) Demographics Factors
+### 1) Demographics Factors
 
 Key Demographics Insights:
        
@@ -63,7 +62,7 @@ Key Demographics Insights:
 - Education Level: Employees with a Bachelor's degree (41.7%) are the most common education level among those who left.  
 
 
-#### 2) Work & Life Balance Factors
+### 2) Work & Life Balance Factors
 
 Key Work & Life Insights:
       
@@ -80,7 +79,7 @@ Key Work & Life Insights:
 - Stock Options: A vast majority (65.0%) of employees who left had Stock Option Level Low, suggesting that the lack of ownership or long-term incentive is a strong factor in their decision to leave.  
 
    
-#### 4) Career Progression
+### 3) Career Progression
 
 Key Work & Life Insights:
    
