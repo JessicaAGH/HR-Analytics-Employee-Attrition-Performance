@@ -7,15 +7,10 @@ Using data-driven insights, the analysis identifies patterns in employee behavio
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🎯 Project Goals
-
-      -Identify the primary factors contributing to employee attrition
-   
+      -Identify the primary factors contributing to employee attrition 
       -Analyze the relationship between performance ratings and employee turnover
-   
-      -Evaluate the impact of salary, job role, and department on retention
-   
+      -Evaluate the impact of salary, job role, and department on retentio
       -Measure employee satisfaction and engagement levels
-   
       -Provide actionable recommendations to improve retention and workforce performance
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
