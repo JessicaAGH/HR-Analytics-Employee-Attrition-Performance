@@ -52,7 +52,7 @@ The dashboard focuses on three highly correlated factors—Dempographics, Work&L
 ### ✨Factors:
 #### 1) Demographics Factors
 
-##### Key Demographics Insights:
+Key Demographics Insights:
        
 - Age: Nearly (38.4%) of all employees who left are in the less than 30 age group, suggesting a significant turnover issue among early-to-mid career professionals. The 30-39 group is also highly represented, accounting for (37.55%).   
          
@@ -65,7 +65,7 @@ The dashboard focuses on three highly correlated factors—Dempographics, Work&L
 
 #### 2) Work & Life Balance Factors
 
-##### Key Work & Life Insights:
+Key Work & Life Insights:
       
 - OverTime: A clear majority (53.6%) of employees who left were working OverTime. This is the highest single category across all factors and suggests that mandated overtime is a critical driver of attrition.  
 
@@ -82,7 +82,7 @@ The dashboard focuses on three highly correlated factors—Dempographics, Work&L
    
 #### 4) Career Progression
 
-##### Key Work & Life Insights:
+Key Work & Life Insights:
    
 - Average Monthly Income vs. Years at Company: Average monthly income generally increases with years at the company for those who leave, suggesting that even higher-paid, longer-tenured employees eventually leave, though the bulk of the attrition occurs at lower tenure levels (Years 0-10). The highest average income is seen at the highest tenure levels, indicating that when very experienced employees leave, they are generally high earners.
 
