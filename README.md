@@ -115,7 +115,20 @@ Insight: 70% of leavers depart within the first three years of working with thei
 "First Year Retention" Metric for Managers: Implement a formal performance metric for all managers based on the retention rate of their direct reports during the employee's first 12 months. Poor performance on this metric should require mandatory retraining in coaching, feedback, and performance management.
 Mandatory 90-Day Check-ins: Formalize quarterly one-on-one sessions during the first year of a new manager-employee relationship. These check-ins must specifically address Work-Life Balance, Job Satisfaction, and Career Alignment to proactively identify and resolve issues before they lead to turnover.
 
-___________________________________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________
+
+
+## 💼 Business Impact
+
+This dashboard enables:
+- Clear visibility into profitability drivers  
+- Faster executive-level decision-making  
+- Identification of cost inefficiencies  
+- Data-backed growth strategy development  
+
+The project demonstrates advanced Power BI skills, including DAX calculations, time intelligence modeling, data architecture design, and business-focused analytics.
+
+
 
 ## 🏁 Final Note
 
