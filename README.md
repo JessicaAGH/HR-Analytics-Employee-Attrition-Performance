@@ -9,9 +9,13 @@ ________________________________________________________________________________
 🎯 Project Goals
 
    -Identify the primary factors contributing to employee attrition
+   
    -Analyze the relationship between performance ratings and employee turnover
+   
    -Evaluate the impact of salary, job role, and department on retention
+   
    -Measure employee satisfaction and engagement levels
+   
    -Provide actionable recommendations to improve retention and workforce performance
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
